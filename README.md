@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**bytype/bytype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://bytype.github.io/"><img src="https://img.shields.io/badge/Blog-000?logo=ghost&logoColor=white"></a>
+&emsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStrom-000000?logo=webstorm&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-007ACC?logo=react&logoColor=white)
+![WebPack](https://img.shields.io/badge/Webpack-007ACC?logo=webpack&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-F7DF1E?logo=LeetCode&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+</div>
