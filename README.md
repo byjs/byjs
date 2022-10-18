@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<a href="https://bytype.github.io/"><img src="https://img.shields.io/badge/Blog-000?logo=ghost&logoColor=white"></a>
+<a href="https://byjs.github.io/"><img src="https://img.shields.io/badge/Blog-000?logo=ghost&logoColor=white"></a>
 &emsp;
 
 ![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)
